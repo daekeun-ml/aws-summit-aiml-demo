@@ -23,7 +23,7 @@ opentelemetry-sdk-extension-aws==2.0.1
 opentelemetry-propagator-aws-xray==1.0.1
 protobuf==3.20.3
 
-torch==1.13.1
+torch==2.2.0
 git+https://github.com/huggingface/transformers.git
 git+https://github.com/huggingface/peft.git
 bitsandbytes==0.38.1
